@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="home"
+        android:id="@+id/home_Id"
+        android:icon="@drawable/user"/>
+    <item android:title="users"
+        android:id="@+id/users_Id"
+        android:icon="@drawable/users"/>
+    <item android:title="leaders"
+        android:id="@+id/leaders_Id"
+        android:icon="@drawable/leaders"/>
+    <item android:title="courses"
+        android:id="@+id/coures_Id"
+        android:icon="@drawable/courses"/>
+    <item android:title="more"
+        android:id="@+id/more_Id"
+        android:icon="@drawable/more_hor"/>
+</menu>
